@@ -9,7 +9,7 @@ Enhanced Python-implementation of my repository "Audio_PixelSort". Sort location
 * **imutils** (0.5.4 used)
 
 ## Image sample
-![Frame Example]()
+![Frame Example](https://raw.githubusercontent.com/gilbertyap/Audio_PixelSort_Python/main/samples/img_sample_1.jpg)
 Example frame from running `img_pixel_sort.py` with `-t 65`
 
 ## Video Sample
