@@ -1,4 +1,4 @@
-# Audio_PixelSort_Python
+# PixelSort_Python
 Enhanced Python-implementation of my repository "Audio_PixelSort". Sort locations have been moved from brightness thresholds to image edges using a Sobel edge detector. 
 
 ## Requirements 
@@ -9,7 +9,7 @@ Enhanced Python-implementation of my repository "Audio_PixelSort". Sort location
 * **imutils** (0.5.4 used)
 
 ## Image sample
-![Frame Example](https://raw.githubusercontent.com/gilbertyap/Audio_PixelSort_Python/main/samples/img_sample_2.jpg)
+![Frame Example](https://raw.githubusercontent.com/gilbertyap/PixelSort_Python/main/samples/img_sample_2.jpg)
 Example frame from running `img_pixel_sort.py` with `-t 65`
 
 Sample image-only video: https://www.youtube.com/watch?v=HeBmqsF6xRc
