@@ -12,6 +12,8 @@ Enhanced Python-implementation of my repository "Audio_PixelSort". Sort location
 ![Frame Example](https://raw.githubusercontent.com/gilbertyap/Audio_PixelSort_Python/main/samples/img_sample_2.jpg)
 Example frame from running `img_pixel_sort.py` with `-t 65`
 
+Sample image-only video: https://www.youtube.com/watch?v=HeBmqsF6xRc
+
 ## Video Sample
 Coming soon...
 
